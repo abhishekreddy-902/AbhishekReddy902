@@ -48,11 +48,13 @@
 - 🥇 Certificate Program in Data Analyst — **NASSCOM FutureSkills Prime** (Gold | 90%)
 - ✅ Data Analytics Certification — **ExcelR**
 - ✅ Data Analyst Internship — **Aivariant**
+- ✅ Excel Data Analysis — ** Microsoft**
 - ✅ Power BI Micro Course — **SkillCourse**
 - ✅ BCG Data Analytics Simulation — **Forage**
 - ✅ Tata Data Visualisation — **Forage**
 - ✅ Deloitte Data Analytics — **Forage**
 - ✅ Excel Data Analysis — **Coursera**
+
 
 ---
 
