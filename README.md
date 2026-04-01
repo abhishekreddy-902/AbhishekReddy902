@@ -23,6 +23,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+## 🚀 Projects
+
+| Project | Tools | Description |
+|--------|-------|-------------|
+| [Mobile Sales Dashboard](https://github.com/abhishek-reddy902/mobile-sales-dashboard-powerbi) | Power BI, DAX, Power Query | Revenue & Customer Behavior Analysis |
+| [Banking Analytics Dashboard](https://github.com/abhishek-reddy902/banking-analytics-dashboard) | SQL, Excel, Tableau, Power BI | Loan Portfolio & Transaction Insights |
+| [Superstore Sales Analysis](https://github.com/abhishek-reddy902/superstore-sales-analysis) | Excel, Pivot Tables | $2.2M+ Retail Sales & Profit Analysis |
+| [E-Commerce Analytics](https://github.com/abhishek-reddy902/ecommerce-analytics-olist-store) | SQL, Power BI, Excel, Tableau | Olist Brazilian Marketplace Analysis |
+
 
 ### 📊 GitHub Stats
 
