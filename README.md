@@ -53,7 +53,8 @@
 | [Banking Analytics Dashboard](https://github.com/abhishek-reddy902/banking-analytics-dashboard) | SQL, Excel, Tableau, Power BI | Loan Portfolio & Transaction Insights |
 | [E-Commerce Analytics](https://github.com/abhishek-reddy902/ecommerce-analytics-olist-store) | SQL, Power BI, Excel, Tableau | Olist Brazilian Marketplace Analysis |
 | [Mobile Sales Dashboard](https://github.com/abhishek-reddy902/mobile-sales-dashboard-powerbi) | Power BI, DAX, Power Query | Revenue & Customer Behavior Analysis |
-| [Superstore Sales Analysis](https://github.com/abhishek-reddy902/superstore-sales-analysis) | Excel, Pivot Tables | $2.2M+ Retail Sales & Profit Analysis |
+| [telco-customer-churn-analysis](https://github.com/AbhishekReddy-902/telco-customer-churn-analysis) | SQL, Power bi |Telecom Churn Customers Analysis
+| [Superstore Sales Analysis](https://github.com/abhishek-reddy902/superstore-sales-analysis) |Excel, Pivot Tables | $2.2M+ Retail Sales & Profit Analysis |
 
 
 ### 🎓 Certifications
